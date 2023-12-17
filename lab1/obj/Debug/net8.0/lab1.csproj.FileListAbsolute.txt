@@ -1,0 +1,14 @@
+C:\Users\zaika\OneDrive\Документы\Visual Studio 2022\hebron\lab1\lab1\bin\Debug\net8.0\lab1.exe
+C:\Users\zaika\OneDrive\Документы\Visual Studio 2022\hebron\lab1\lab1\bin\Debug\net8.0\lab1.deps.json
+C:\Users\zaika\OneDrive\Документы\Visual Studio 2022\hebron\lab1\lab1\bin\Debug\net8.0\lab1.runtimeconfig.json
+C:\Users\zaika\OneDrive\Документы\Visual Studio 2022\hebron\lab1\lab1\bin\Debug\net8.0\lab1.dll
+C:\Users\zaika\OneDrive\Документы\Visual Studio 2022\hebron\lab1\lab1\bin\Debug\net8.0\lab1.pdb
+C:\Users\zaika\OneDrive\Документы\Visual Studio 2022\hebron\lab1\lab1\obj\Debug\net8.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaika\OneDrive\Документы\Visual Studio 2022\hebron\lab1\lab1\obj\Debug\net8.0\lab1.AssemblyInfoInputs.cache
+C:\Users\zaika\OneDrive\Документы\Visual Studio 2022\hebron\lab1\lab1\obj\Debug\net8.0\lab1.AssemblyInfo.cs
+C:\Users\zaika\OneDrive\Документы\Visual Studio 2022\hebron\lab1\lab1\obj\Debug\net8.0\lab1.csproj.CoreCompileInputs.cache
+C:\Users\zaika\OneDrive\Документы\Visual Studio 2022\hebron\lab1\lab1\obj\Debug\net8.0\lab1.dll
+C:\Users\zaika\OneDrive\Документы\Visual Studio 2022\hebron\lab1\lab1\obj\Debug\net8.0\refint\lab1.dll
+C:\Users\zaika\OneDrive\Документы\Visual Studio 2022\hebron\lab1\lab1\obj\Debug\net8.0\lab1.pdb
+C:\Users\zaika\OneDrive\Документы\Visual Studio 2022\hebron\lab1\lab1\obj\Debug\net8.0\lab1.genruntimeconfig.cache
+C:\Users\zaika\OneDrive\Документы\Visual Studio 2022\hebron\lab1\lab1\obj\Debug\net8.0\ref\lab1.dll
